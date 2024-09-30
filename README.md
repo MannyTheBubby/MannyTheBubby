@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://raw.githubusercontent.com/MannyTheBubby/e/master/profile-summary-card-output/default/3-stats.svg)
-![](https://github-readme-stats.vercel.app/api?username=MannyTheBubby&show_icons=true&theme=great-gatsby&count_private=true&hide=stars,issues)
+<!--![](https://github-readme-stats.vercel.app/api?username=MannyTheBubby&show_icons=true&theme=great-gatsby&count_private=true&hide=stars,issues)
