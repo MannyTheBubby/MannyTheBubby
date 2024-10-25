@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=MannyTheBubby&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyTheBubby&layout=donut)
