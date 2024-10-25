@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannyTheBubby&theme=aura_dark)
+[![](https://raw.githubusercontent.com/MannyTheBubby/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/MannyTheBubby/github-profile-summary-cards)
