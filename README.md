@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I want to be good at programming.
 
-I love learning.
+I love learning!
 
 <!---
 MannyTheBubby/MannyTheBubby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
