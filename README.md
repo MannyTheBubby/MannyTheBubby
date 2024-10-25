@@ -13,5 +13,4 @@ MannyTheBubby/MannyTheBubby is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/MannyTheBubby/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/3-stats.svg)
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannyTheBubby&theme=aura_dark
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannyTheBubby&theme=aura_dark)
